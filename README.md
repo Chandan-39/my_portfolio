@@ -7,14 +7,11 @@ This is a responsive HTML-based portfolio that showcases my skills, projects, ed
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Chandan Gowda N G**, a passionate Full Stack Developer with a B.E. in Mechanical Engineering (2025). I specialize in building modern, scalable web applications using technologies like **Java, Spring Boot, ReactJS, Django, HTML, CSS, JavaScript** and **MySQL**.
+Hi! I'm **Chandan Gowda N G**, a passionate Full Stack Developer with a B.E. in Mechanical Engineering (2024). I specialize in building modern, scalable web applications using technologies like **Java, Python, Spring Boot, ReactJS, Django, HTML, CSS, JavaScript** and **MySQL, ORACLE, MongoDB**.
 
 My focus is on crafting real-world digital solutions—from intuitive user interfaces to secure, high-performance backends. I enjoy learning new technologies and building projects that solve real problems.
 
 ---
-
-## 🌟 Live Demo
-
 ---
 
 ## 🚀 Projects
@@ -79,4 +76,4 @@ To view this portfolio locally:
 ```bash
 git clone https://github.com/Chandan-39/your-portfolio-repo.git
 cd your-portfolio-repo
-open index.html
+open finalportfolio.html
