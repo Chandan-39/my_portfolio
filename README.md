@@ -7,7 +7,7 @@ This is a responsive HTML-based portfolio that showcases my skills, projects, ed
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Chandan Gowda N G**, a passionate Full Stack Developer with a B.E. in Mechanical Engineering (2024). I specialize in building modern, scalable web applications using technologies like **Java, Python, Spring Boot, ReactJS, Django, HTML, CSS, JavaScript** and **MySQL, ORACLE, MongoDB**.
+Hi! I'm **Chandan Gowda N G**, a passionate Full Stack Developer with a B.E. in Mechanical Engineering (2024). I specialize in building modern, scalable web applications using technologies like **Java, Python, Spring Boot, ReactJS, Django, HTML, CSS, JavaScript** and **MySQL, Oracle, MongoDB**.
 
 My focus is on crafting real-world digital solutions—from intuitive user interfaces to secure, high-performance backends. I enjoy learning new technologies and building projects that solve real problems.
 
@@ -45,7 +45,7 @@ Check out my project: [SalesSavy-Backendcodes](https://github.com/Chandan-39/Sal
 
 ## 🎓 Education
 
-- **B.E. in Mechanical Engineering**, 2025 — CGPA: 7.03  
+- **B.E. in Mechanical Engineering**, 2024 — CGPA: 7.03  
 - **Pre-University (PCMB)**, 2020 — 81.5%
 
 ---
